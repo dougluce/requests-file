@@ -7,7 +7,7 @@ except ImportError:
 
 setup(
     name='requests-file',
-    version='1.0',
+    version='1.2',
     description="'file' URL scheme support for the popular Requests HTTP library.",
     long_description="'file' URL scheme support for the popular Requests HTTP library.",
     author='Jayson Vantuyl',
